@@ -28,12 +28,6 @@ If you need test PDFs, you can generate them using `pdfkit`:
    ```sh
    npm install pdfkit
    ```
-2. Run the script to generate sample PDFs:
-   ```sh
-   node generatePdfs.js
-   ```
-   This creates two PDFs inside the `PDF-FILE` directory.
-
 ## Running the Script
 To process PDFs and generate the report, run:
 ```sh
