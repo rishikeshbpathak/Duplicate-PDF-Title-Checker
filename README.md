@@ -46,7 +46,6 @@ http://localhost:3000/download
 │-- PDF-FILE/          # Folder containing PDF files
 │-- reports/           # Folder where reports are saved
 │-- checkDuplicates.js # Main script for processing PDFs
-│-- generatePdfs.js    # Script to generate sample PDFs
 │-- README.md          # Project documentation
 │-- package.json       # Node.js dependencies
 ```
